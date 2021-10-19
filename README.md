@@ -2,4 +2,4 @@
 - 👀 I’m interested in applied math and scientfic computing
 - 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on Variational Discrete Element Methods
-- 📫 How to reach me: marazzaf@lsu.edu
+- 📫 How to reach me: marazzato@lsu.edu
