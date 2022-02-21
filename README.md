@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @marazzaf
 - 👀 I’m interested in applied math and scientific computing
 - 🌱 I’m currently learning machine learning
-- 💞️ I’m looking to collaborate on Variational Discrete Element Methods
+- 💞️ I’m looking to collaborate on computing Origami shapes
 - 📫 How to reach me: marazzato@lsu.edu
